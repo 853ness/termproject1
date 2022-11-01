@@ -12,5 +12,5 @@ git commit -m “brief message of what was done“
 git push -u -origin main 
   ( this command pushes everything to GitHub, this should be your very last command that you do.)
 
-if you add or remove everything, you need to add and commit the changes again before pushing the code or else you won't see your changes
+if you add or remove anything, you need to add and commit the changes again before pushing the code or else you won't see your changes
 
