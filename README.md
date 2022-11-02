@@ -18,4 +18,5 @@ if you add or remove anything, you need to add and commit the changes again befo
 
 -if it asks you to do git config at any point in time do the following commands:
 git config --global user.name (your git username)
+
 git config --global user.email (the email you used for git)
